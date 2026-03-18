@@ -49,6 +49,9 @@ The dataset consists of three main tables:
   - Non-stormy day: All other days
 
 ### Entity-Relationship Diagram
+<p align="center">
+  <img src="images/ERD.png" width="600"/>
+</p>
 ![ERD](https://github.com/user-attachments/assets/03f3e5de-f857-4d1c-97bc-41a39055299e)
 
 Full SQL implementation: :contentReference[oaicite:0]{index=0}
