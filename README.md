@@ -53,7 +53,7 @@ The dataset consists of three main tables:
   <img src="images/ERD.png" width="600"/>
 </p>
 
-Full SQL implementation: :contentReference[oaicite:0]{index=0}
+Full SQL implementation: [queries.sql](./queries.sql)
 ---
 
 ## Key Business Questions
