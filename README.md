@@ -53,7 +53,7 @@ The dataset consists of three main tables:
   <img src="images/ERD.png" width="600"/>
 </p>
 
-Full SQL implementation: [queries.sql](./queries.sql)
+## Full SQL implementation: [queries.sql](./queries.sql)
 ---
 
 ## Key Business Questions
