@@ -3,6 +3,7 @@
 **How do rain and snow events change what people buy, and which stores win or lose?**  
 An end-to-end SQL analysis uncovering weather-driven demand patterns, panic buying behavior, and store resilience.
 
+Full SQL implementation: [walmart_stormy_sales_analysis.sql](walmart_stormy_sales_analysis.sql)
 ---
 
 ## Overview
@@ -52,8 +53,6 @@ The dataset consists of three main tables:
 <p align="center">
   <img src="images/ERD.png" width="600"/>
 </p>
-
-## Full SQL implementation: [queries.sql](./queries.sql)
 ---
 
 ## Key Business Questions
