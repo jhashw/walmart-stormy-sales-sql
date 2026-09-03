@@ -4,6 +4,7 @@
 An end-to-end SQL analysis uncovering weather-driven demand patterns, panic buying behavior, and store resilience.
 
 Full SQL implementation: [walmart_stormy_sales_analysis.sql](walmart_stormy_sales_analysis.sql)
+
 ---
 
 ## Overview
