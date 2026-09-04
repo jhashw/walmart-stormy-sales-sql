@@ -8,7 +8,7 @@ How do rain and snow change what people buy, and which stores absorb the disrupt
 2. For several items the spike the day *before* a storm exceeds the spike on the storm day itself, which means storm-day restocking is already too late.
 3. Snow and rain are close to categorical. A group of items sells almost exclusively in snow and records zero sales in rain, and another group does the reverse. They are not the same demand event.
 
-**[SQL implementation](sql/walmart-stormy-sales-analysis.sql)**
+**[SQL implementation](sql/walmart_stormy_sales_analysis.sql)**
 
 ---
 
